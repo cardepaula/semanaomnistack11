@@ -1,2 +1,2 @@
-# Semana Omnistack 11
-Repositorio referente a Semana Omnistack 11
+# Be The Hero
+Aplicação criado na Semana Omnistack 11
